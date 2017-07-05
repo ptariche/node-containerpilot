@@ -1,6 +1,6 @@
 # node-containerpilot
 
-Node + [containerpilot](joyent.com/containerpilot) docker images for bootstrapping your [autopiloted](joyent.com/blog/applications-on-autopilot) apps
+Node + [containerpilot](https://www.joyent.com/containerpilot) docker images for bootstrapping your [autopiloted](https://www.joyent.com/blog/applications-on-autopilot) apps
 
 [**Dockerhub Link**](https://hub.docker.com/r/johnhof/node-containerpilot/)
 
