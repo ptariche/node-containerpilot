@@ -2,11 +2,11 @@
 
 Node + [containerpilot](https://www.joyent.com/containerpilot) docker images for bootstrapping your [autopiloted](https://www.joyent.com/blog/applications-on-autopilot) apps
 
-[**Dockerhub Link**](https://hub.docker.com/r/johnhof/node-containerpilot/)
+[**Dockerhub Link**](https://hub.docker.com/r/ptariche/node-containerpilot/)
 
 **Usage:**
 ```
-FROM johnhof/node-containerpilot:[NODE_VERSION]:[CONTAINERPILOT_VERSION]
+FROM ptariche/node-containerpilot:[NODE_VERSION]:[CONTAINERPILOT_VERSION]
 
 COPY /path/to/app/source /path/to/app/source
 
