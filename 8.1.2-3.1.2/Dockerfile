@@ -1,4 +1,4 @@
-FROM node:8.2
+FROM node:8.1.2
 
 ENV CONTAINERPILOT_VERSION=3.1.3
 ENV CONTAINERPILOT_SOURCE=https://github.com/joyent/containerpilot/releases/download/$CONTAINERPILOT_VERSION/containerpilot-$CONTAINERPILOT_VERSION.tar.gz
